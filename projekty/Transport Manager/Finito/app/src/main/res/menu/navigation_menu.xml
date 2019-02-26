@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:id="@+id/wyprawa"
+        android:icon="@mipmap/car"
+        android:title="Dodaj podróż"/>
+    <item android:id = "@+id/zlecenia"
+        android:icon="@mipmap/connection"
+        android:title="Moje zlecenia"/>
+<item android:id="@+id/new_travel"
+    android:icon="@mipmap/ic_account_box_black_24dp"
+    android:title="Mój profil"/>
+    <item android:id="@+id/settings"
+        android:icon="@mipmap/ic_settings_black_24dp"
+        android:title="Ustawienia"/>
+
+
+    <item android:id="@+id/logout"
+        android:icon="@mipmap/exit"
+        android:title="Wyloguj"/>
+</menu>

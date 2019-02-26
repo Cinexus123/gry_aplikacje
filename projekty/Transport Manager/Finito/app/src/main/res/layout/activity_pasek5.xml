@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient1">
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Podaj dane dotyczące przewozu"
+        android:textSize="18dp"
+        android:textColor="#5D4037"/>
+
+    <TextView
+        android:id="@+id/textView40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="36dp"
+        android:text="Stacja początkowa" />
+
+    <EditText
+        android:layout_width="165dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView40"
+        android:id="@+id/editText100"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        />
+
+    <TextView
+        android:id="@+id/textView43"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText100"
+        android:text="Stacja końcowa" />
+
+    <EditText
+        android:layout_width="167dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView43"
+        android:id="@+id/editText101"/>
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText101"
+        android:text="Data wyjazdu" />
+    <EditText
+        android:layout_width="167dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView44"
+        android:id="@+id/editText102"/>
+
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="211dp"
+        android:layout_height="540dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="25dp"
+        app:srcCompat="@drawable/zas" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText102"
+        android:text="Godzina wyjazdu" />
+
+    <EditText
+        android:id="@+id/editText200"
+        android:layout_width="169dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView45" />
+
+    <TextView
+        android:id="@+id/textView46"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText200"
+        android:text="Minimalna liczba miejsc*" />
+
+    <EditText
+        android:id="@+id/editText201"
+        android:layout_width="169dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView46" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView47"
+        android:text="Ludzi"
+        android:id="@id/checkBox"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/checkBox"
+        android:text="Przedmioty"
+        android:id="@id/checkBox1"/>
+
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText201"
+        android:text="Co chcesz przewozić" />
+
+    <TextView
+        android:id="@+id/textView48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/checkBox1"
+        android:text="Minimalna cena" />
+    <EditText
+        android:id="@+id/editText202"
+        android:layout_width="169dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView48" />
+
+    <Button
+        android:layout_width="359dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editText202"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/rounded_button7"
+        android:text="Szukaj przewozu"
+        android:textColor="#ffff"
+        android:id="@+id/wwe"/>
+
+
+</RelativeLayout>

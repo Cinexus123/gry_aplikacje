@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#81D4FA">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stacja początkowa" />
+
+        <EditText
+            android:id="@+id/editText27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stacja końcowa" />
+
+        <EditText
+            android:id="@+id/editText26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textEmailAddress" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cena przejazdu" />
+
+        <EditText
+            android:id="@+id/editText25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number" />
+
+        <TextView
+            android:id="@+id/textView39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Co chcesz przewozić?" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="189dp"
+            android:layout_height="wrap_content"
+            android:text="Osoby" />
+
+        <CheckBox
+            android:id="@+id/checkBox2"
+            android:layout_width="189dp"
+            android:layout_height="wrap_content"
+            android:text="Przedmioty" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Data wyjazdu" />
+
+        <EditText
+            android:id="@+id/editText24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="phone" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:text="Liczba wolnych miejsc" />
+
+        <EditText
+            android:id="@+id/editText34"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textView35"
+            android:layout_width="189dp"
+            android:layout_height="wrap_content"
+            android:text="Godzina wyjazdu" />
+
+        <EditText
+            android:id="@+id/editText38"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/button80"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Zapisz w bazie" />
+    </LinearLayout>
+
+</RelativeLayout>

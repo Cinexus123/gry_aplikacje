@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fb91580a26eb6c0ee67c1d5473aeaade\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5d5d00f7750ab13a80c8b5be5fa50d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\195b4c21211fd1a5c29aebe77044ba0e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc943446cde4da16879eba5b2607de1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\35b45cefd10f0af22dade7e0104c17c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a210523fa2ff7127caad6fb425bf437f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b7a1a556a51132528916d141727f38f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\47cc25602210509c014f9b31f993b995\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9f67a7758a2b8a179a2a58ce23d08a2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\68c28d188864ac4b3e3dc7e57597d7b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d58198135e51b5ff7c98153d551be268\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\776ab75b2d622040a187940d7690e6f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7954c708a8c3798c35c184557960aafe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bdea306fc38cf7cdf842d041fad98e86\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14fd0b1459f1cf88f66604b6a67e93a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1e32a1d8f7cf254411c156743416cf47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b6a09e8825d17462480056adb8ba3f5a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\195b4c21211fd1a5c29aebe77044ba0e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\195b4c21211fd1a5c29aebe77044ba0e\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.marcin.myapplication.MainActivity
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.marcin.myapplication.Main2Activity
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.example.marcin.myapplication.Rejestracja
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:25:9-49
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:25:19-46
+activity#com.example.marcin.myapplication.Logowanie
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:26:9-47
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:26:19-44
+activity#com.example.marcin.myapplication.Onas
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:27:9-42
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:27:19-39
+activity#com.example.marcin.myapplication.Glowna
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:28:19-41
+activity#com.example.marcin.myapplication.Driver_choice
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:29:19-48
+activity#com.example.marcin.myapplication.Passenger_choice
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:30:19-51
+activity#com.example.marcin.myapplication.Profil
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.example.marcin.myapplication.Pasek3
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:32:19-41
+activity#com.example.marcin.myapplication.Pasek4
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:33:19-41
+activity#com.example.marcin.myapplication.Szukajtran
+ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:34:9-57
+	android:name
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml:34:19-45
+uses-sdk
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fb91580a26eb6c0ee67c1d5473aeaade\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fb91580a26eb6c0ee67c1d5473aeaade\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5d5d00f7750ab13a80c8b5be5fa50d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e5d5d00f7750ab13a80c8b5be5fa50d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\195b4c21211fd1a5c29aebe77044ba0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\195b4c21211fd1a5c29aebe77044ba0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc943446cde4da16879eba5b2607de1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\dc943446cde4da16879eba5b2607de1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\35b45cefd10f0af22dade7e0104c17c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\35b45cefd10f0af22dade7e0104c17c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a210523fa2ff7127caad6fb425bf437f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a210523fa2ff7127caad6fb425bf437f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b7a1a556a51132528916d141727f38f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b7a1a556a51132528916d141727f38f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\47cc25602210509c014f9b31f993b995\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\47cc25602210509c014f9b31f993b995\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9f67a7758a2b8a179a2a58ce23d08a2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9f67a7758a2b8a179a2a58ce23d08a2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\68c28d188864ac4b3e3dc7e57597d7b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\68c28d188864ac4b3e3dc7e57597d7b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d58198135e51b5ff7c98153d551be268\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d58198135e51b5ff7c98153d551be268\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\776ab75b2d622040a187940d7690e6f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\776ab75b2d622040a187940d7690e6f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7954c708a8c3798c35c184557960aafe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7954c708a8c3798c35c184557960aafe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bdea306fc38cf7cdf842d041fad98e86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bdea306fc38cf7cdf842d041fad98e86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14fd0b1459f1cf88f66604b6a67e93a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14fd0b1459f1cf88f66604b6a67e93a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1e32a1d8f7cf254411c156743416cf47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1e32a1d8f7cf254411c156743416cf47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b6a09e8825d17462480056adb8ba3f5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Marcin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b6a09e8825d17462480056adb8ba3f5a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marcin\Downloads\Finito\app\src\main\AndroidManifest.xml

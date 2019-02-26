@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context=".Glowna">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="344dp"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Jaka funkcja aplikacji Cię interesuje?"
+        android:textColor="#F44336"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="194dp"
+        android:layout_height="154dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="94dp"
+        android:text="Pasażer "
+        android:background="@drawable/rounded_button5"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="194dp"
+        android:layout_height="154dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="94dp"
+        android:background="@drawable/rounded_button6"
+        android:text="Kierowca" />
+</RelativeLayout>
